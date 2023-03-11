@@ -47,3 +47,7 @@ I'm studying to be a software engineer and building frontend and backend for web
        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
+    
+---
+### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikitaKrasovskiy&theme=dark&background=000000)](https://git.io/streak-stats)
