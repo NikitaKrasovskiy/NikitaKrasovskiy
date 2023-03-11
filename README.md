@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://web.telegram.org/k/#@cherigra)">
+  <a href="@cherigra">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-youtube-URL">
