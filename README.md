@@ -26,3 +26,24 @@ I'm studying to be a software engineer and building frontend and backend for web
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cherigra)
+       
+---
+
+### :hammer_and_wrench: Languages and Tools :
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gradle/gradle-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/groovy/groovy-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+          <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jetbrains/jetbrains-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unix/unix-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
