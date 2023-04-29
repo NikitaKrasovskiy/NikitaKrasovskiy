@@ -49,6 +49,23 @@ About me I can say that I am responsible for the result, clearly articulate thou
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     
 ---
+   | Repository | Technologies |
+|--|--|
+| 📌 [TASK-Management-System](https://github.com/ayushman1024/TASK-Management-System)   |  Spring Boot, Angular, Spring Data JPA|
+| 📌 [SocialDistance : Simple social media REST API](https://github.com/ayushman1024/socialdistance) | Spring Boot, Spring Data JPA |
+|📌 [Filalyze](https://github.com/ayushman1024/Filalyze)   | Python 3 |
+|📌 [Graph-plotting-software](https://github.com/ayushman1024/Graph-plotting-software)   |  Java Swing|
+|📌 [Machine-Learning-Deep-Learning-Algorithms](https://github.com/ayushman1024/Machine-Learning-Deep-Learning-Algorithms)  | Python (Jupyter Notebooks), Keras, Tensorflow |
+|📌 [Fractals](https://github.com/ayushman1024/Fractals)   | Java Swing |
+|📌 [Data-Structure-Algorithms-Collection](https://github.com/ayushman1024/Data-Structure-Algorithms-Collection)   | Java, C++, Python |
+<!--- 
+| 📌[ayushman1024.github.io](https://github.com/ayushman1024/ayushman1024.github.io)  
+ |  | --->
+
+<img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard" alt="" width="5"/>
+
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushman1024&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) --->
+
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikitaKrasovskiy&hide_border=%D0%9B%D0%9E%D0%96%D0%AC)](https://git.io/streak-stats)
     
