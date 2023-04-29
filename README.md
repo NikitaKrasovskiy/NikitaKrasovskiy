@@ -13,23 +13,12 @@
   <a href="https://t.me/cherigra"><img title="Follow on LinkedIn" 
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   <a href="https://www.facebook.com/harism99"><img title="Connect on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://t.me/cherigra">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="your-youtube-URL">
+   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-     <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=NikitaKrasovskiy&style=flat-square&color=blue" alt=""/>
+</p>
      
 ---      
 ### 👨‍💻: About Me :
