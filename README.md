@@ -50,7 +50,7 @@ About me I can say that I am responsible for the result, clearly articulate thou
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
     
 ---
-   | Repository | Technologies |
+<!--    | Repository | Technologies |
 |--|--|
 | 📌 [TASK-Management-System](https://github.com/ayushman1024/TASK-Management-System)   |  Spring Boot, Angular, Spring Data JPA|
 | 📌 [SocialDistance : Simple social media REST API](https://github.com/ayushman1024/socialdistance) | Spring Boot, Spring Data JPA |
@@ -60,7 +60,7 @@ About me I can say that I am responsible for the result, clearly articulate thou
 |📌 [Fractals](https://github.com/ayushman1024/Fractals)   | Java Swing |
 |📌 [Data-Structure-Algorithms-Collection](https://github.com/ayushman1024/Data-Structure-Algorithms-Collection)   | Java, C++, Python |
 <!--- 
-| 📌[ayushman1024.github.io](https://github.com/ayushman1024/ayushman1024.github.io)  
+| 📌[ayushman1024.github.io](https://github.com/ayushman1024/ayushman1024.github.io)   -->
  |  | --->
 
 <img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard" alt="" width="5"/>
