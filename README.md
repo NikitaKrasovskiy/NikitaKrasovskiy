@@ -22,7 +22,7 @@
 </p>
          
 ## 👨‍💻 About Me:
-I am a student at school 21(Ecole 42) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a student at schooll 21(Ecole 42) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
    
 About me I can say that I am responsible for the result, clearly articulate thought, the ability to formulate thought, the ability to plan work, I strive for professional growth.
 
